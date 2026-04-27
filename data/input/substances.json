@@ -1,0 +1,1170 @@
+{
+    "acamprosate": [
+        "acamprosate"
+    ],
+    "acebutolol": [
+        "acebutolol"
+    ],
+    "acenocoumarol": [
+        "acenocoumarol"
+    ],
+    "acetyl_l_carnitine": [
+        "acetyl-l-carnitine",
+        "acetyl_l_carnitine"
+    ],
+    "acipimox": [
+        "acipimox"
+    ],
+    "adrenaline": [
+        "adrenaline"
+    ],
+    "agomelatine": [
+        "agomelatine"
+    ],
+    "alirocumab": [
+        "alirocumab"
+    ],
+    "aliskiren": [
+        "aliskiren"
+    ],
+    "almotriptan": [
+        "almotriptan"
+    ],
+    "alprazolam": [
+        "alprazolam"
+    ],
+    "amantadine": [
+        "amantadine"
+    ],
+    "ambrisentan": [
+        "ambrisentan"
+    ],
+    "amiloride": [
+        "amiloride",
+        "co-amilofruse",
+        "co-amilozide"
+    ],
+    "amiodarone": [
+        "amiodarone"
+    ],
+    "amisulpride": [
+        "amisulpride"
+    ],
+    "amitriptyline": [
+        "amitriptyline"
+    ],
+    "amlodipine": [
+        "amlodipine"
+    ],
+    "amobarbital": [
+        "amobarbital"
+    ],
+    "apixaban": [
+        "apixaban"
+    ],
+    "apomorphine": [
+        "apomorphine"
+    ],
+    "aprepitant": [
+        "aprepitant"
+    ],
+    "aripiprazole": [
+        "aripiprazole"
+    ],
+    "asenapine": [
+        "asenapine"
+    ],
+    "aspirin": [
+        "aspirin",
+        "co-codaprin"
+    ],
+    "atenolol": [
+        "atenolol",
+        "co-tenidone"
+    ],
+    "atomoxetine": [
+        "atomoxetine"
+    ],
+    "atorvastatin": [
+        "atorvastatin"
+    ],
+    "azilsartan": [
+        "azilsartan"
+    ],
+    "bempedoic": [
+        "bempedoic"
+    ],
+    "bempedoic_acid": [
+        "bempedoic acid / ezetimibe",
+        "bempedoic_acid"
+    ],
+    "bendroflumethiazide": [
+        "bendrofluazide",
+        "bendroflumethiazide",
+        "prestim"
+    ],
+    "benperidol": [
+        "benperidol"
+    ],
+    "benserazide": [
+        "benserazide",
+        "co-beneldopa"
+    ],
+    "benzatropine": [
+        "benzatropine",
+        "benztropine"
+    ],
+    "betahistine": [
+        "betahistine"
+    ],
+    "bezafibrate": [
+        "bezafibrate"
+    ],
+    "biperiden": [
+        "biperiden"
+    ],
+    "bisoprolol": [
+        "bisoprolol"
+    ],
+    "bosentan": [
+        "bosentan"
+    ],
+    "botulinum": [
+        "botulinum"
+    ],
+    "brivaracetam": [
+        "brivaracetam"
+    ],
+    "bromazepam": [
+        "bromazepam"
+    ],
+    "bumetanide": [
+        "bumetanide"
+    ],
+    "buprenorphine": [
+        "buprenorph hydrochloride / naloxone hydrochloride",
+        "buprenorphine"
+    ],
+    "bupropion": [
+        "bupropion"
+    ],
+    "buspirone": [
+        "buspirone"
+    ],
+    "butobarbital": [
+        "butobarbital"
+    ],
+    "cabergoline": [
+        "cabergoline"
+    ],
+    "caffeine": [
+        "caffeine",
+        "ergotamine tartrate"
+    ],
+    "candesartan": [
+        "candesartan"
+    ],
+    "cannabidiol": [
+        "cannabidiol"
+    ],
+    "captopril": [
+        "captopril",
+        "co-zidocapt"
+    ],
+    "carbamazepine": [
+        "carbamazepine"
+    ],
+    "carbidopa": [
+        "carbidopa",
+        "co-careldopa"
+    ],
+    "cariprazine": [
+        "cariprazine"
+    ],
+    "carvedilol": [
+        "carvedilol"
+    ],
+    "celiprolol": [
+        "celiprolol"
+    ],
+    "cenobamate": [
+        "cenobamate"
+    ],
+    "chloral_hydrate": [
+        "chloral hydrate",
+        "chloral_hydrate"
+    ],
+    "chlordiazepoxide": [
+        "chlordiazepoxide"
+    ],
+    "chlorothiazide": [
+        "chloroth",
+        "chlorothiazide"
+    ],
+    "chlorpromazine": [
+        "chlorpromazine"
+    ],
+    "chlortalidone": [
+        "chlortalidone",
+        "chlorthalidone",
+        "co-tenidone",
+        "kalspare"
+    ],
+    "cilostazol": [
+        "cilostazol"
+    ],
+    "cinnarizine": [
+        "cinnarizine"
+    ],
+    "ciprofibrate": [
+        "ciprofibrate"
+    ],
+    "citalopram": [
+        "citalopram"
+    ],
+    "clobazam": [
+        "clobazam"
+    ],
+    "clomethiazole": [
+        "clomethiazole"
+    ],
+    "clomipramine": [
+        "clomipramine"
+    ],
+    "clonazepam": [
+        "clonazepam"
+    ],
+    "clonidine": [
+        "clonidine"
+    ],
+    "clopidogrel": [
+        "clopidogrel"
+    ],
+    "cloral_betaine": [
+        "cloral betaine",
+        "cloral_betaine"
+    ],
+    "clozapine": [
+        "clozapine"
+    ],
+    "codeine": [
+        "co-codamol",
+        "co-codaprin",
+        "codeine"
+    ],
+    "colesevelam": [
+        "colesevelam"
+    ],
+    "colestipol": [
+        "colestipol"
+    ],
+    "colestyramine": [
+        "cholestyramine",
+        "colestyramine"
+    ],
+    "cyclizine": [
+        "cyclizine"
+    ],
+    "cytisinicline": [
+        "cytisinicline"
+    ],
+    "dabigatran": [
+        "dabigatran"
+    ],
+    "dalteparin": [
+        "dalteparin"
+    ],
+    "daridorexant": [
+        "daridorexant"
+    ],
+    "dexamfetamine": [
+        "dexamfetamine"
+    ],
+    "dextropropoxyphene": [
+        "co-proxamol",
+        "dextropropoxyphene"
+    ],
+    "diamorphine": [
+        "diamorphine"
+    ],
+    "diazepam": [
+        "diazepam"
+    ],
+    "digoxin": [
+        "digoxin"
+    ],
+    "dihydrocodeine": [
+        "co-dydramol",
+        "dihydrocodeine"
+    ],
+    "diltiazem": [
+        "diltiazem"
+    ],
+    "dimenhydrinate": [
+        "dimenhydrinate"
+    ],
+    "diosmin": [
+        "diosmin"
+    ],
+    "dipipanone": [
+        "dipipanone"
+    ],
+    "dipyridamole": [
+        "dipyridamole"
+    ],
+    "disopyramide": [
+        "disopyramide"
+    ],
+    "disulfiram": [
+        "disulfiram"
+    ],
+    "domperidone": [
+        "domperidone"
+    ],
+    "donepezil": [
+        "donepezil"
+    ],
+    "dosulepin": [
+        "dosulepin",
+        "dothiepin"
+    ],
+    "doxazosin": [
+        "doxazosin"
+    ],
+    "doxepin": [
+        "doxepin"
+    ],
+    "doxylamine": [
+        "doxylamine"
+    ],
+    "dronedarone": [
+        "dronedarone"
+    ],
+    "duloxetine": [
+        "duloxetine"
+    ],
+    "edoxaban": [
+        "edoxaban"
+    ],
+    "eletriptan": [
+        "eletriptan"
+    ],
+    "enalapril": [
+        "enalapril",
+        "innozide"
+    ],
+    "enoxaparin": [
+        "enoxaparin"
+    ],
+    "enoximone": [
+        "enoximone"
+    ],
+    "entacapone": [
+        "entacapone"
+    ],
+    "ephedrine": [
+        "ephedrine"
+    ],
+    "eplerenone": [
+        "eplerenone"
+    ],
+    "eprosartan": [
+        "eprosartan"
+    ],
+    "erenumab": [
+        "erenumab"
+    ],
+    "ergotamine": [
+        "ergotamine"
+    ],
+    "escitalopram": [
+        "escitalopram"
+    ],
+    "eslicarbazepine": [
+        "eslicarbazepine"
+    ],
+    "ethosuximide": [
+        "ethosuximide"
+    ],
+    "etilefrine": [
+        "etilefrine"
+    ],
+    "evolocumab": [
+        "evolocumab"
+    ],
+    "ezetimibe": [
+        "ezetimibe"
+    ],
+    "felbamate": [
+        "felbamate"
+    ],
+    "felodipine": [
+        "felodipine",
+        "triapin"
+    ],
+    "fenofibrate": [
+        "fenofibrate"
+    ],
+    "fentanyl": [
+        "fentanyl"
+    ],
+    "finerenone": [
+        "finerenone"
+    ],
+    "flecainide": [
+        "flecainide"
+    ],
+    "flunarizine": [
+        "flunarizine"
+    ],
+    "fluoxetine": [
+        "fluoxetine"
+    ],
+    "flupentixol": [
+        "flupenthixol",
+        "flupentixol"
+    ],
+    "fluphenazine": [
+        "fluphenazine"
+    ],
+    "flurazepam": [
+        "flurazepam"
+    ],
+    "fluvastatin": [
+        "fluvastatin"
+    ],
+    "fluvoxamine": [
+        "fluvoxamine"
+    ],
+    "fondaparinux": [
+        "fondaparinux"
+    ],
+    "fosinopril": [
+        "fosinopril"
+    ],
+    "fremanezumab": [
+        "fremanezumab"
+    ],
+    "frovatriptan": [
+        "frovatriptan"
+    ],
+    "furosemide": [
+        "co-amilofruse",
+        "frusemide",
+        "frusene",
+        "furosemide",
+        "lasilactone"
+    ],
+    "gabapentin": [
+        "gabapentin"
+    ],
+    "galantamine": [
+        "galantamine"
+    ],
+    "galcanezumab": [
+        "galcanezumab"
+    ],
+    "gemfibrozil": [
+        "gemfibrozil"
+    ],
+    "glyceryl_trinitrate": [
+        "glyceryl trinitrate",
+        "glyceryl_trinitrate"
+    ],
+    "granisetron": [
+        "granisetron"
+    ],
+    "guanfacine": [
+        "guanfacine"
+    ],
+    "haloperidol": [
+        "haloperidol"
+    ],
+    "heparin": [
+        "heparin"
+    ],
+    "hesperidin": [
+        "hesperidin"
+    ],
+    "hydralazine": [
+        "hydralazine"
+    ],
+    "hydrochlorothiazide": [
+        "accuretic",
+        "actelsar",
+        "carace plus",
+        "caralpha",
+        "co-amilozide",
+        "co-diovan",
+        "co-triamterzide",
+        "co-zidocapt",
+        "coaprovel",
+        "cozaar-comp",
+        "hydchloroth",
+        "hydrochlorothiazide",
+        "hydrochlorthiazide",
+        "hyzaar",
+        "innozide",
+        "lisicostad",
+        "micardisplus",
+        "tolucombi",
+        "zestoretic"
+    ],
+    "hydroflumethiazide": [
+        "co-flumactone",
+        "hydroflumethiazide"
+    ],
+    "hydromorphone": [
+        "hydromorphone"
+    ],
+    "hyoscine": [
+        "hyoscine"
+    ],
+    "ibuprofen": [
+        "ibuprofen"
+    ],
+    "icosapent": [
+        "icosapent"
+    ],
+    "iloprost": [
+        "iloprost"
+    ],
+    "imidapril": [
+        "imidapril"
+    ],
+    "imipramine": [
+        "imipramine"
+    ],
+    "inclisiran": [
+        "inclisiran"
+    ],
+    "indapamide": [
+        "coversyl arginine plus",
+        "coversyl plus",
+        "indapamide"
+    ],
+    "indoramin": [
+        "indoramin"
+    ],
+    "irbesartan": [
+        "coaprovel",
+        "irbesartan"
+    ],
+    "isocarboxazid": [
+        "isocarboxazid"
+    ],
+    "isometheptene": [
+        "isometheptene",
+        "midrid"
+    ],
+    "isosorbide_dinitrate": [
+        "isosorbide dinitrate",
+        "isosorbide_dinitrate"
+    ],
+    "isosorbide_mononitrate": [
+        "isosorbide mononitrate",
+        "isosorbide_mononitrate"
+    ],
+    "ivabradine": [
+        "ivabradine"
+    ],
+    "ketamine": [
+        "ketamine"
+    ],
+    "labetalol": [
+        "labetalol"
+    ],
+    "lacidipine": [
+        "lacidipine"
+    ],
+    "lacosamide": [
+        "lacosamide"
+    ],
+    "lamotrigine": [
+        "lamotrigine"
+    ],
+    "lercanidipine": [
+        "lercanidipine"
+    ],
+    "levetiracetam": [
+        "levetiraceta",
+        "levetiracetam"
+    ],
+    "levodopa": [
+        "co-beneldopa",
+        "co-careldopa",
+        "levodopa"
+    ],
+    "levomenthol": [
+        "levomenthol"
+    ],
+    "levomepromazine": [
+        "levomepromazine"
+    ],
+    "lidocaine": [
+        "lidocaine",
+        "lignocaine"
+    ],
+    "lisdexamfetamine": [
+        "lisdexamfetamine"
+    ],
+    "lisinopril": [
+        "carace plus",
+        "caralpha",
+        "lisicostad",
+        "lisinopril",
+        "zestoretic"
+    ],
+    "lithium": [
+        "lithium"
+    ],
+    "lofepramine": [
+        "lofepramine"
+    ],
+    "loprazolam": [
+        "loprazolam"
+    ],
+    "lorazepam": [
+        "lorazepam"
+    ],
+    "lormetazepam": [
+        "lormetazepam"
+    ],
+    "losartan": [
+        "cozaar-comp",
+        "hyzaar",
+        "losartan"
+    ],
+    "lurasidone": [
+        "lurasidone"
+    ],
+    "macitentan": [
+        "macitentan"
+    ],
+    "meclozine": [
+        "meclozine"
+    ],
+    "melatonin": [
+        "melatonin"
+    ],
+    "memantine": [
+        "memantine"
+    ],
+    "meptazinol": [
+        "meptazinol"
+    ],
+    "methadone": [
+        "methadone"
+    ],
+    "methyldopa": [
+        "methyldopa"
+    ],
+    "methylphenidate": [
+        "methylphenidate"
+    ],
+    "metoclopramide": [
+        "metoclopramide"
+    ],
+    "metolazone": [
+        "metolazone"
+    ],
+    "metoprolol": [
+        "metoprolol"
+    ],
+    "mexiletine": [
+        "mexiletine"
+    ],
+    "mianserin": [
+        "mianserin"
+    ],
+    "midazolam": [
+        "midazolam"
+    ],
+    "midodrine": [
+        "midodrine"
+    ],
+    "minoxidil": [
+        "minoxidil"
+    ],
+    "mirtazapine": [
+        "mirtazapine"
+    ],
+    "moclobemide": [
+        "moclobemide"
+    ],
+    "modafinil": [
+        "modafinil"
+    ],
+    "morphine": [
+        "morphine"
+    ],
+    "moxisylyte": [
+        "moxisylyte"
+    ],
+    "moxonidine": [
+        "moxonidine"
+    ],
+    "nabilone": [
+        "nabilone"
+    ],
+    "nadolol": [
+        "nadolol"
+    ],
+    "naftidrofuryl": [
+        "naftidrofuryl"
+    ],
+    "nalmefene": [
+        "nalmefene"
+    ],
+    "naloxone": [
+        "naloxone"
+    ],
+    "naltrexone": [
+        "naltrexone"
+    ],
+    "naratriptan": [
+        "naratriptan"
+    ],
+    "nebivolol": [
+        "nebivolol"
+    ],
+    "nefopam": [
+        "nefopam"
+    ],
+    "netupitant": [
+        "netupitant"
+    ],
+    "nicardipine": [
+        "nicardipine"
+    ],
+    "nicorandil": [
+        "nicorandil"
+    ],
+    "nicotine": [
+        "nicotine"
+    ],
+    "nicotinic_acid": [
+        "nicotinic acid",
+        "nicotinic_acid"
+    ],
+    "nifedipine": [
+        "nifedipine"
+    ],
+    "nimodipine": [
+        "nimodipine"
+    ],
+    "nitrazepam": [
+        "nitrazepam"
+    ],
+    "nortriptyline": [
+        "nortriptyline"
+    ],
+    "olanzapine": [
+        "olanzapine"
+    ],
+    "olmesartan": [
+        "olmesartan"
+    ],
+    "omega_3_acid": [
+        "docosahexaenoic acid",
+        "eicosapentaenoic acid",
+        "omega-3-acid",
+        "omega_3_acid"
+    ],
+    "ondansetron": [
+        "ondansetron"
+    ],
+    "opicapone": [
+        "opicapone"
+    ],
+    "orlistat": [
+        "orlistat"
+    ],
+    "orphenadrine": [
+        "orphenadrine"
+    ],
+    "oxazepam": [
+        "oxazepam"
+    ],
+    "oxcarbazepine": [
+        "oxcarbazepine"
+    ],
+    "oxitriptan": [
+        "oxitriptan"
+    ],
+    "oxybate": [
+        "oxybate"
+    ],
+    "oxycodone": [
+        "oxycodone"
+    ],
+    "paliperidone": [
+        "paliperidone"
+    ],
+    "palonosetron": [
+        "palonosetron"
+    ],
+    "paracetamol": [
+        "co-codamol",
+        "co-dydramol",
+        "co-proxamol",
+        "midrid",
+        "paracetamol"
+    ],
+    "paraldehyde": [
+        "paraldehyde"
+    ],
+    "paroxetine": [
+        "paroxetine"
+    ],
+    "pentazocine": [
+        "pentazocine"
+    ],
+    "pentosan": [
+        "pentosan"
+    ],
+    "pentoxifylline": [
+        "pentoxifylline"
+    ],
+    "perampanel": [
+        "perampanel"
+    ],
+    "pericyazine": [
+        "pericyazine"
+    ],
+    "perindopril": [
+        "coversyl arginine plus",
+        "coversyl plus",
+        "perindopril"
+    ],
+    "perphenazine": [
+        "perphenazine"
+    ],
+    "pethidine": [
+        "pethidine"
+    ],
+    "phenelzine": [
+        "phenelzine"
+    ],
+    "phenindione": [
+        "phenindione"
+    ],
+    "phenobarbital": [
+        "phenobarbital",
+        "phenobarbitone"
+    ],
+    "phenoxybenzamine": [
+        "phenoxybenzamine"
+    ],
+    "phenprocoumon": [
+        "phenprocoumon"
+    ],
+    "phenylephrine": [
+        "phenylephrine"
+    ],
+    "phenytoin": [
+        "phenytoin"
+    ],
+    "pimozide": [
+        "pimozide"
+    ],
+    "pindolol": [
+        "pindolol"
+    ],
+    "piracetam": [
+        "piracetam"
+    ],
+    "pitolisant": [
+        "pitolisant"
+    ],
+    "pizotifen": [
+        "pizotifen"
+    ],
+    "pramipexole": [
+        "pramipexole"
+    ],
+    "prasugrel": [
+        "prasugrel"
+    ],
+    "pravastatin": [
+        "pravastatin"
+    ],
+    "prazosin": [
+        "prazosin"
+    ],
+    "pregabalin": [
+        "pregabalin"
+    ],
+    "primidone": [
+        "primidone"
+    ],
+    "prochlorperazine": [
+        "prochlorperazine"
+    ],
+    "procyclidine": [
+        "procyclidine"
+    ],
+    "promazine": [
+        "promazine"
+    ],
+    "promethazine": [
+        "promethazine"
+    ],
+    "propafenone": [
+        "propafenone"
+    ],
+    "propranolol": [
+        "propranolol"
+    ],
+    "pyridoxine": [
+        "pyridoxine"
+    ],
+    "quetiapine": [
+        "quetiapine"
+    ],
+    "quinapril": [
+        "accuretic",
+        "quinapril"
+    ],
+    "quinidine": [
+        "quinidine"
+    ],
+    "ramipril": [
+        "ramipril",
+        "triapin"
+    ],
+    "ranolazine": [
+        "ranolazine"
+    ],
+    "rasagiline": [
+        "rasagiline"
+    ],
+    "reboxetine": [
+        "reboxetine"
+    ],
+    "riluzole": [
+        "riluzole"
+    ],
+    "rimegepant": [
+        "rimegepant"
+    ],
+    "risperidone": [
+        "risperidone"
+    ],
+    "rivaroxaban": [
+        "rivaroxaban"
+    ],
+    "rivastigmine": [
+        "rivastigmine"
+    ],
+    "rizatriptan": [
+        "rizatriptan"
+    ],
+    "ropinirole": [
+        "ropinirole"
+    ],
+    "rosuvastatin": [
+        "rosuvastatin"
+    ],
+    "rotigotine": [
+        "rotigotine"
+    ],
+    "rufinamide": [
+        "rufinamide"
+    ],
+    "rutosides": [
+        "oxerutins",
+        "rutosides"
+    ],
+    "sacubitril": [
+        "sacubitril"
+    ],
+    "safinamide": [
+        "safinamide"
+    ],
+    "secobarbital": [
+        "secobarbital"
+    ],
+    "selegiline": [
+        "selegiline"
+    ],
+    "sertraline": [
+        "sertraline"
+    ],
+    "sildenafil": [
+        "sildenafil",
+        "sildenafil(vasodilator antihypertensive)"
+    ],
+    "simvastatin": [
+        "simvastatin"
+    ],
+    "sotalol": [
+        "sotalol"
+    ],
+    "spironolactone": [
+        "co-flumactone",
+        "lasilactone",
+        "spironol / furosemide",
+        "spironolactone"
+    ],
+    "stiripentol": [
+        "stiripentol"
+    ],
+    "sulpiride": [
+        "sulpiride"
+    ],
+    "sultiame": [
+        "sultiame"
+    ],
+    "sumatriptan": [
+        "sumatriptan"
+    ],
+    "tadalafil": [
+        "tadalafil"
+    ],
+    "tapentadol": [
+        "tapentadol"
+    ],
+    "telmisartan": [
+        "actelsar",
+        "micardisplus",
+        "telmisartan",
+        "tolucombi"
+    ],
+    "temazepam": [
+        "temazepam"
+    ],
+    "terazosin": [
+        "terazosin"
+    ],
+    "tetrabenazine": [
+        "tetrabenazine"
+    ],
+    "tetradecyl_sulphate": [
+        "sodium tetradecyl sulfate",
+        "sodium tetradecyl sulphate",
+        "tetradecyl_sulphate"
+    ],
+    "thioridazine": [
+        "thioridazine"
+    ],
+    "tiagabine": [
+        "tiagabine"
+    ],
+    "ticagrelor": [
+        "ticagrelor"
+    ],
+    "ticlopidine": [
+        "ticlopidine"
+    ],
+    "timolol": [
+        "prestim",
+        "timolol"
+    ],
+    "tinzaparin": [
+        "tinzaparin"
+    ],
+    "tolcapone": [
+        "tolcapone"
+    ],
+    "tolfenamic_acid": [
+        "tolfenamic acid",
+        "tolfenamic_acid"
+    ],
+    "topiramate": [
+        "topiramate"
+    ],
+    "torasemide": [
+        "torasemide"
+    ],
+    "tramadol": [
+        "tramadol"
+    ],
+    "trandolapril": [
+        "trandolapril"
+    ],
+    "tranexamic_acid": [
+        "tranexamic acid",
+        "tranexamic_acid"
+    ],
+    "tranylcypromine": [
+        "tranylcypromine"
+    ],
+    "trazodone": [
+        "trazodone"
+    ],
+    "triamterene": [
+        "co-triamterzide",
+        "frusene",
+        "kalspare",
+        "triamterene"
+    ],
+    "trifluoperazine": [
+        "trifluoperazine"
+    ],
+    "trihexyphenidyl": [
+        "trihexyphenidyl"
+    ],
+    "trimetazidine": [
+        "trimetazidine"
+    ],
+    "trimipramine": [
+        "trimipramine"
+    ],
+    "tryptophan": [
+        "tryptophan"
+    ],
+    "valproate": [
+        "valproate"
+    ],
+    "valproic_acid": [
+        "valproic acid",
+        "valproic_acid"
+    ],
+    "valsartan": [
+        "co-diovan",
+        "valsartan"
+    ],
+    "varenicline": [
+        "varenicline"
+    ],
+    "venlafaxine": [
+        "venlafaxine"
+    ],
+    "verapamil": [
+        "verapamil"
+    ],
+    "vericiguat": [
+        "vericiguat"
+    ],
+    "vigabatrin": [
+        "vigabatrin"
+    ],
+    "vortioxetine": [
+        "vortioxetine"
+    ],
+    "warfarin": [
+        "warfarin"
+    ],
+    "xipamide": [
+        "xipamide"
+    ],
+    "ziprasidone": [
+        "ziprasidone"
+    ],
+    "zolmitriptan": [
+        "zolmitriptan"
+    ],
+    "zolpidem": [
+        "zolpidem"
+    ],
+    "zonisamide": [
+        "zonisamide"
+    ],
+    "zopiclone": [
+        "zopiclone"
+    ],
+    "zuclopenthixol": [
+        "zuclopenthixol"
+    ]
+}

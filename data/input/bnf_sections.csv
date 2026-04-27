@@ -1,0 +1,24 @@
+bnf_section_name,bnf_section_code,bnf_section_short_name
+Drugs used in substance dependence,0410,substance_dependence_drugs
+Beta-adrenoceptor blocking drugs,0204,beta_blockers
+Anticoagulants and protamine,0208,anticoagulants
+"Nitrates, calcium-channel blockers & other antianginal drugs",0206,antianginal_drugs
+Lipid-regulating drugs,0212,lipid_regulating_drugs
+Sympathomimetics and other vasoconstrictor drugs,0207,vasoconstrictor_drugs
+Antidepressant drugs,0403,antidepressants
+Hypertension and heart failure,0205,hypertension_heart_failure_drugs
+Analgesics,0407,analgesics
+Hypnotics and anxiolytics,0401,hypnotics_anxiolytics
+Drugs used in parkinsonism and related disorders,0409,parkinsonism_drugs
+Diuretics,0202,diuretics
+Anti-arrhythmic drugs,0203,anti_arrhythmic_drugs
+Drugs used in psychoses and related disorders,0402,psychoses_drugs
+Drugs used in nausea and vertigo,0406,nausea_vertigo_drugs
+Antiplatelet drugs,0209,antiplatelet_drugs
+CNS stimulants and drugs used for ADHD,0404,cns_stimulants_adhd_drugs
+Antiepileptic drugs,0408,antiepileptic_drugs
+Positive inotropic drugs,0201,positive_inotropic_drugs
+Drugs for dementia,0411,dementia_drugs
+Drugs used in the treatment of obesity,0405,obesity_drugs
+Local sclerosants,0213,local_sclerosants
+Antifibrinolytic drugs and haemostatics,0211,antifibrinolytic_haemostatics

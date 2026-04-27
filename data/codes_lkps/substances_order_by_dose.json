@@ -1,0 +1,332 @@
+{
+    "acebutolol|hydrochlorothiazide": [
+        "hydrochlorothiazide",
+        "acebutolol"
+    ],
+    "adrenaline|lidocaine": [
+        "adrenaline",
+        "lidocaine"
+    ],
+    "amiloride|bumetanide": [
+        "bumetanide",
+        "amiloride"
+    ],
+    "amiloride|furosemide": [
+        "amiloride",
+        "furosemide"
+    ],
+    "amitriptyline|chlordiazepoxide": [
+        "chlordiazepoxide",
+        "amitriptyline"
+    ],
+    "amitriptyline|ketamine": [
+        "ketamine",
+        "amitriptyline"
+    ],
+    "amitriptyline|perphenazine": [
+        "perphenazine",
+        "amitriptyline"
+    ],
+    "amlodipine|olmesartan": [
+        "amlodipine",
+        "olmesartan"
+    ],
+    "amlodipine|perindopril": [
+        "perindopril",
+        "amlodipine"
+    ],
+    "amlodipine|valsartan": [
+        "amlodipine",
+        "valsartan"
+    ],
+    "amobarbital|secobarbital": [
+        "amobarbital",
+        "secobarbital"
+    ],
+    "aspirin|bisoprolol": [
+        "bisoprolol",
+        "aspirin"
+    ],
+    "aspirin|caffeine": [
+        "caffeine",
+        "aspirin"
+    ],
+    "aspirin|codeine": [
+        "codeine",
+        "aspirin"
+    ],
+    "aspirin|cyclizine": [
+        "cyclizine",
+        "aspirin"
+    ],
+    "aspirin|dipyridamole": [
+        "aspirin",
+        "dipyridamole"
+    ],
+    "aspirin|isosorbide_mononitrate": [
+        "isosorbide_mononitrate",
+        "aspirin"
+    ],
+    "aspirin|metoclopramide": [
+        "metoclopramide",
+        "aspirin"
+    ],
+    "aspirin|paracetamol": [
+        "paracetamol",
+        "aspirin"
+    ],
+    "atenolol|bendroflumethiazide": [
+        "bendroflumethiazide",
+        "atenolol"
+    ],
+    "atenolol|nifedipine": [
+        "nifedipine",
+        "atenolol"
+    ],
+    "bendroflumethiazide|nadolol": [
+        "bendroflumethiazide",
+        "nadolol"
+    ],
+    "bendroflumethiazide|propranolol": [
+        "bendroflumethiazide",
+        "propranolol"
+    ],
+    "bendroflumethiazide|timolol": [
+        "bendroflumethiazide",
+        "timolol"
+    ],
+    "bisoprolol|hydrochlorothiazide": [
+        "hydrochlorothiazide",
+        "bisoprolol"
+    ],
+    "buprenorphine|naloxone": [
+        "naloxone",
+        "buprenorphine"
+    ],
+    "bupropion|naltrexone": [
+        "naltrexone",
+        "bupropion"
+    ],
+    "caffeine|ergotamine": [
+        "ergotamine",
+        "caffeine"
+    ],
+    "caffeine|paracetamol": [
+        "caffeine",
+        "paracetamol"
+    ],
+    "captopril|hydrochlorothiazide": [
+        "hydrochlorothiazide",
+        "captopril"
+    ],
+    "chlorothiazide|spironolactone": [
+        "spironolactone",
+        "chlorothiazide"
+    ],
+    "chlortalidone|metoprolol": [
+        "chlortalidone",
+        "metoprolol"
+    ],
+    "chlortalidone|triamterene": [
+        "chlortalidone",
+        "triamterene"
+    ],
+    "cinnarizine|dimenhydrinate": [
+        "cinnarizine",
+        "dimenhydrinate"
+    ],
+    "codeine|ibuprofen": [
+        "codeine",
+        "ibuprofen"
+    ],
+    "codeine|paracetamol": [
+        "codeine",
+        "paracetamol"
+    ],
+    "cyclizine|dipipanone": [
+        "dipipanone",
+        "cyclizine"
+    ],
+    "cyclizine|morphine": [
+        "morphine",
+        "cyclizine"
+    ],
+    "dihydrocodeine|paracetamol": [
+        "dihydrocodeine",
+        "paracetamol"
+    ],
+    "diltiazem|hydrochlorothiazide": [
+        "hydrochlorothiazide",
+        "diltiazem"
+    ],
+    "diosmin|hesperidin": [
+        "hesperidin",
+        "diosmin"
+    ],
+    "domperidone|paracetamol": [
+        "domperidone",
+        "paracetamol"
+    ],
+    "doxylamine|pyridoxine": [
+        "doxylamine",
+        "pyridoxine"
+    ],
+    "enalapril|hydrochlorothiazide": [
+        "hydrochlorothiazide",
+        "enalapril"
+    ],
+    "ezetimibe|simvastatin": [
+        "ezetimibe",
+        "simvastatin"
+    ],
+    "felodipine|ramipril": [
+        "felodipine",
+        "ramipril"
+    ],
+    "fenofibrate|simvastatin": [
+        "simvastatin",
+        "fenofibrate"
+    ],
+    "fluphenazine|nortriptyline": [
+        "fluphenazine",
+        "nortriptyline"
+    ],
+    "furosemide|spironolactone": [
+        "furosemide",
+        "spironolactone"
+    ],
+    "furosemide|triamterene": [
+        "furosemide",
+        "triamterene"
+    ],
+    "hydrochlorothiazide|irbesartan": [
+        "hydrochlorothiazide",
+        "irbesartan"
+    ],
+    "hydrochlorothiazide|lisinopril": [
+        "hydrochlorothiazide",
+        "lisinopril"
+    ],
+    "hydrochlorothiazide|losartan": [
+        "hydrochlorothiazide",
+        "losartan"
+    ],
+    "hydrochlorothiazide|methyldopa": [
+        "hydrochlorothiazide",
+        "methyldopa"
+    ],
+    "hydrochlorothiazide|metoprolol": [
+        "hydrochlorothiazide",
+        "metoprolol"
+    ],
+    "hydrochlorothiazide|olmesartan": [
+        "hydrochlorothiazide",
+        "olmesartan"
+    ],
+    "hydrochlorothiazide|quinapril": [
+        "quinapril",
+        "hydrochlorothiazide"
+    ],
+    "hydrochlorothiazide|sotalol": [
+        "hydrochlorothiazide",
+        "sotalol"
+    ],
+    "hydrochlorothiazide|telmisartan": [
+        "telmisartan",
+        "hydrochlorothiazide"
+    ],
+    "hydrochlorothiazide|triamterene": [
+        "hydrochlorothiazide",
+        "triamterene"
+    ],
+    "hydrochlorothiazide|valsartan": [
+        "hydrochlorothiazide",
+        "valsartan"
+    ],
+    "ibuprofen|levomenthol": [
+        "levomenthol",
+        "ibuprofen"
+    ],
+    "ibuprofen|paracetamol": [
+        "ibuprofen",
+        "paracetamol"
+    ],
+    "ibuprofen|phenylephrine": [
+        "phenylephrine",
+        "ibuprofen"
+    ],
+    "indapamide|perindopril": [
+        "indapamide",
+        "perindopril"
+    ],
+    "isometheptene|paracetamol": [
+        "isometheptene",
+        "paracetamol"
+    ],
+    "ketamine|morphine": [
+        "ketamine",
+        "morphine"
+    ],
+    "lidocaine|midazolam": [
+        "lidocaine",
+        "midazolam"
+    ],
+    "lidocaine|phenylephrine": [
+        "phenylephrine",
+        "lidocaine"
+    ],
+    "metoclopramide|paracetamol": [
+        "metoclopramide",
+        "paracetamol"
+    ],
+    "naloxone|oxycodone": [
+        "naloxone",
+        "oxycodone"
+    ],
+    "netupitant|palonosetron": [
+        "palonosetron",
+        "netupitant"
+    ],
+    "paracetamol|pentazocine": [
+        "pentazocine",
+        "paracetamol"
+    ],
+    "paracetamol|phenylephrine": [
+        "phenylephrine",
+        "paracetamol"
+    ],
+    "paracetamol|promethazine": [
+        "promethazine",
+        "paracetamol"
+    ],
+    "paracetamol|tramadol": [
+        "tramadol",
+        "paracetamol"
+    ],
+    "pethidine|promethazine": [
+        "promethazine",
+        "pethidine"
+    ],
+    "sacubitril|valsartan": [
+        "sacubitril",
+        "valsartan"
+    ],
+    "trandolapril|verapamil": [
+        "trandolapril",
+        "verapamil"
+    ],
+    "tranylcypromine|trifluoperazine": [
+        "trifluoperazine",
+        "tranylcypromine"
+    ],
+    "amiloride|hydrochlorothiazide|timolol": [
+        "amiloride",
+        "timolol",
+        "hydrochlorothiazide"
+    ],
+    "carbidopa|entacapone|levodopa": [
+        "carbidopa",
+        "levodopa",
+        "entacapone"
+    ]
+}

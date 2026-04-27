@@ -1,0 +1,32 @@
+{
+    "ignore": {
+        ".+": [
+            "numark",
+            "boots",
+            "lloyds",
+            "galpharm",
+            "superdrug",
+            "care",
+            "gppe .+",
+            "mylan",
+            "martindale"
+        ]
+    },
+    "add": {
+        "citalopram": [
+            "cipramil"
+        ],
+        "adrenaline": [
+            "adren"
+        ],
+        "hydrochlorothiazide": [
+            "hydchloroth"
+        ],
+        "chlorothiazide": [
+            "chloroth"
+        ],
+        "nifedipine": [
+            "adalat"
+        ]
+    }
+}

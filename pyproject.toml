@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "drug-response-phenotypes"
+description = "A project for preprocessing prescriptions from UK Biobank and excract drug response phenotypes."
+version = "6.2.0"
+authors = [
+    "Paula Konowalska <paula.konowalska@gmail.com>",
+    "Paweł Pieńkowski <pienkowskisolutions@gmail.com>"
+]
+
+packages = [
+    { include = "prescriptions-preprocessing" }
+]
