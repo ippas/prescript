@@ -1,6 +1,11 @@
-# preSCRIPT
+<div align="center">
 
-**preSCRIPT: Large-scale prescription search and annotation engine for pharmacogenomic studies** (*paper url/doi*)
+  # preSCRIPT
+  **Prescription processing framework for pharmacogenomic studies**
+
+</div>
+
+## Overview
 
 preSCRIPT is a framework for large-scale prescription search and annotation in UK Biobank primary-care records. It starts from a user-defined list of target drugs, builds substance-level search dictionaries, finds matching prescriptions in `gp_scripts`, annotates dose and quantity, cleans implausible values, and reconstructs longitudinal therapy episodes.
 
@@ -11,6 +16,16 @@ The framework is designed for pharmacogenomic studies, but the core workflow is 
 - a selected subset of that panel.
 
 The main output of preSCRIPT engine is an annotated Hail table in which prescription rows are assigned to substances, dose and quantity information, and reconstructed into treatment episodes. This table can be used to derive downstream prescription-based phenotypes, such as median daily dose, observed maintenance dose, longest uninterrupted therapy duration, or switches between drugs or classes. Example phenotype derivation workflows are provided in the repository.
+
+## Associated preprint
+
+**preSCRIPT: Large-scale prescription search and annotation engine for pharmacogenomic studies**  
+Maria Pieczarka, Paweł Pieńkowski, Paula Konowalska, Sylwia Grubarek, Jacek Hajto, Dzesika Hoinkis, Marcin Piechota, Małgorzata Borczyk and Michał Korostyński.  
+Published in **April 2026**.  
+DOI: [10.64898/2026.04.28.26351989](https://doi.org/10.64898/2026.04.28.26351989)  
+Preprint: [medRxiv preprint](https://www.medrxiv.org/content/10.64898/2026.04.28.26351989v1)
+
+*Journal publication in progress.*
 
 ## Requirements
 
